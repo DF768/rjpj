@@ -5,3 +5,5 @@
 完整安装包https://github.com/DF768/rjpj/archive/refs/heads/main.zip
 教师端https://wwc.lanzout.com/isS2809gwuwf
 密码:967o
+测试版https://wwc.lanzout.com/iXPa60b0bpha
+密码:3fhx
